@@ -1374,7 +1374,7 @@
   resolved "https://registry.yarnpkg.com/@embroider/hbs-loader/-/hbs-loader-3.0.1.tgz#32c15066bc12cf28ba3f102327d759989bfd8a0a"
   integrity sha512-suX65PCsEbt1GW6gEbd31wuw0X8vHWvBiAGNm4bjLCwNSZCR8SIqvAs32+F8k738ArgRsRU4zgaOFuHug8XrRw==
 
-"@embroider/macros@1.12.3", "@embroider/macros@^1.0.0", "@embroider/macros@^1.10.0", "@embroider/macros@^1.12.0", "@embroider/macros@^1.8.3":
+"@embroider/macros@1.12.3", "@embroider/macros@^1.0.0", "@embroider/macros@^1.10.0", "@embroider/macros@^1.12.0", "@embroider/macros@^1.12.3", "@embroider/macros@^1.8.3":
   version "1.12.3"
   resolved "https://registry.yarnpkg.com/@embroider/macros/-/macros-1.12.3.tgz#6d364e6b53e686a62b6c2dbc7235f9ebbf3c1c7b"
   integrity sha512-ZdgDo7ckNbZ0DxMgEmcX70PUNPqodKSkgifDoX3Ysf5P5LkpST/PV1E49GZTxv9p17+XwQ8j0JSf5yd7KY1f/w==
